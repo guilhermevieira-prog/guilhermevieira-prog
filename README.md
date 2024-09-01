@@ -3,6 +3,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-vieira-0a3902322/)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gv524003@gmail.com)
 ![Guilherme Vieira GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermevieira-prog&show_icons=true&theme=dracula)
 
 ## Tecnologias que eu uso no meu dia
@@ -14,8 +15,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij%20idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
-## Apaixonado por tecnologia e por programação.
-## Atualmente cursando Engenharia de Software
+## Atualmente cursando Engenharia de Software na UCSAL
 ## Para contato - gv524003@gmail.com
 
 ### Últimos estudos:
@@ -23,3 +23,4 @@
 - Programação Back-end com JAVA
 - Aprendendo e conhecendo FIGMA - UI Design
 - Santander e AWS
+

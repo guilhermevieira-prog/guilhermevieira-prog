@@ -14,6 +14,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij%20idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ## Atualmente cursando Engenharia de Software na UCSAL
 ## Para contato - gv524003@gmail.com
@@ -23,4 +24,3 @@
 - Programação Back-end com JAVA
 - Aprendendo e conhecendo FIGMA - UI Design
 - Santander e AWS
-
